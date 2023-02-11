@@ -1,5 +1,3 @@
-# BOTW Installer
+# Botw Mods
 
-Unofficaial installer for BOTW and BCML!
-
-For more information on using BOTW Installer, check out the [website](https://botw-installer.github.io/).
+Hopefully the website and file host for my Botw mods (thanks github for being op like that)
